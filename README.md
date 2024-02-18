@@ -16,7 +16,7 @@
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></div><br>
 
-<h4>"90% do sucesso se baseia em insitir"</h4>
+<h4>"90% do sucesso se baseia em insistir"</h4>
 
 ## Materiais de estudo:
 - [DEV em dobro: Semana do Zero ao progamador contratado - Projeto GTA V](https://www.youtube.com/watch?v=Kip2oZkNC7w&list=PLoL9ay7NXpXTefs-SOMyN9_oWh5lYYqqY&pp=iAQB)<br/>
